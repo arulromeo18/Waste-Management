@@ -39,6 +39,47 @@ The system provides secure authentication, role-based dashboards, complaint mana
 ## Database
 
 - MongoDB Atlas
+# 📸 Screenshots
+
+## 🔐 Login Page
+
+![Login Page](screenshots/login.png)
+
+---
+
+## 📊 Super Admin Dashboard
+
+![Super Admin Dashboard](screenshots/admin-dashboard.png)
+
+---
+
+## 👤 Citizen Dashboard
+
+![Citizen Dashboard](screenshots/citizen-dashboard.png)
+
+---
+
+## 📅 Collection Schedule
+
+![Collection Schedule](screenshots/collection-schedule.png)
+
+---
+
+## 📝 Complaint Management
+
+![Complaint Management](screenshots/complaint-management.png)
+
+---
+
+## 📈 Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytics.png)
+
+---
+
+## ♻️ Waste Segregation Guide
+
+![Waste Segregation Guide](screenshots/waste-segregation-guide.png)
 
 # ✨ Features
 
@@ -187,18 +228,6 @@ The application supports exporting reports in:
 - Excel (.xlsx)
 - CSV
 
-# 📸 Screenshots
-
-> Add screenshots here.
-
-- Login Page
-- Super Admin Dashboard
-- Citizen Dashboard
-- Worker Dashboard
-- Complaint Management
-- Analytics Dashboard
-- Collection Schedule
-- Waste Segregation Guide
 
 # 👥 User Roles
 
