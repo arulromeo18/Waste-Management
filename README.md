@@ -39,6 +39,11 @@ The system provides secure authentication, role-based dashboards, complaint mana
 ## Database
 
 - MongoDB Atlas
+## 🎥 Project Demo
+
+📹 Watch the complete project demonstration with explanation:
+
+https://drive.google.com/drive/folders/1t1SB4usExiAadXryTAOI5BHZQi_6puHH?usp=drive_link
 # 📸 Screenshots
 
 ## 🔐 Login Page
